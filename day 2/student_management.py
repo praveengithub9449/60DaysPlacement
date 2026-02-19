@@ -26,4 +26,8 @@ while True:
         
 
     
-        
+"""
+        git add .
+git commit -m "Completed Day 3 loops practice"
+git push
+"""
